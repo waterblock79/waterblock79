@@ -8,8 +8,7 @@ Thats my all project, if you enjoy it, plz star✨ it😋.
 
 |Name|Link|Language|
 |----|----|--------|
-|MeMe Collect|[🔗](https://github.com/waterblock79/meme-collect)|HTML/CSS/JS|
-|Ping Tool|[🔗](https://github.com/waterblock79/Ping-Tool)|C++|
-|CS:Scratch|Still working|Scratch|
+|stickers|[🔗](https://github.com/waterblock79/stickers)|HTML/CSS/JS|
+|ping Tool|[🔗](https://github.com/waterblock79/Ping-Tool)|C++|
 
-Have an nice day :).
+Have an nice day :)
